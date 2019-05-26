@@ -28,7 +28,7 @@ In the last 5 years I gave about 50 talks at various data science and machine le
 ...
 
 
-### Physicists in data science / intro to data science / career tips
+### Physicists in data science / Intro to data science / Career tips
 
 ...
 
