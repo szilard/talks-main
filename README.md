@@ -25,7 +25,7 @@ The 2 tools most widely used for data science in the last few years are R and Py
 
 ### Size of datasets for analytics
 
-...
+In the last decade we have seen a huge amount of hype around "big data" and distributed systems supposedly able to cope with it (Hadoop, Spark). In a talk at useR! conference at Stanford (June 2016) I talked about the size of datasets typically used for analytics, [video here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Size-of-Datasets-for-Analytics-and-Implications-for-R).
 
 
 ### Machine learning with H2O
