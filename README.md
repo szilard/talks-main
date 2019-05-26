@@ -19,7 +19,7 @@ In addition, I walked through the whole ML workflow in a talk at the LA Data Sci
 
 ### Using R for data science
 
-The 2 tools most widely used for data science recently are R and Python. I have been using R since 2006, and I gave a talk about why and some best practices in using R for data science at the Budapest Data Science meetup in Aug 2015, 
+The 2 tools most widely used for data science in the last few years are R and Python. I have been using R since 2006, and I gave a talk about my journey and some best practices in using R for data science at the Budapest Data Science meetup in Aug 2015, 
 [video here](https://www.youtube.com/watch?v=F-7in6Lzdqw#t=1m30s).
 
 
