@@ -13,7 +13,7 @@ In the last 5 years I gave about 50 talks at various data science and machine le
 Best practices for using machine learning in businesses have been discused in my keynote to the Budapest BI & Analytics Forum conference in Nov 2018. That talk has not been recorded, but I gave a "replay" of it in the Use cases seminar for the MS in Business Analytics at CEU (University) in May 2019, 
 [video here](https://www.youtube.com/watch?v=HSr1CpZdOXU&t=36m58s).
 
-In addition, I walked through the whole workflow for developing machine learning models and deploying them in production in a talk at the LA Data Science/Machine Learning meetup in May 2017, 
+In addition, I walked through the whole workflow for developing machine learning models and deploying them in production in a talk at the Los Angeles Data Science/Machine Learning meetup in May 2017, 
 [video here](https://www.youtube.com/watch?v=2BTl2maXvFk&t=17m15s).
 
 
@@ -25,17 +25,18 @@ The 2 tools most widely used for data science in the last few years are R and Py
 
 ### Size of datasets for analytics
 
-In the last decade we have seen a huge amount of hype around "big data" and distributed systems supposedly able to cope with it (Hadoop, Spark). In a talk at useR! conference at Stanford (June 2016) I talked about the size of datasets typically used for analytics, [video here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Size-of-Datasets-for-Analytics-and-Implications-for-R).
+In the last decade we have seen a huge amount of hype around "big data" and distributed systems supposedly able to cope with it (Hadoop, Spark). In a talk at useR! conference at Stanford University (June 2016) I talked about the size of datasets typically used for analytics and the low-productivity of using "big data" tools, [video here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Size-of-Datasets-for-Analytics-and-Implications-for-R). 
 
 
 ### Machine learning with H2O
 
-...
+If you deploy machine learning in production (especially real-time scoring), H2O is one of the best tools to use. In this meetup at AT&T in Los Angeles (Jan 2017), I gave an overview of H2O and how to use it in business applications, 
+[video here](https://www.youtube.com/watch?v=H2O-QoKErDQ).
 
 
 ### Physicists in data science / Intro to data science / Career tips
 
-...
+In this talk in the "From the atoms to the stars" (Atomcsill) series at Eotvos University (where I obtained my PhD), I introduced college aspiring high school students to data science and I gave them some career advice. The talk was in Hungarian, [video here](https://www.youtube.com/watch?v=-GU9YzNuOaY).
 
 
 ### Bonus: KDD conference invited talk
