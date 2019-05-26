@@ -33,7 +33,7 @@ In the last 5 years I gave about 50 talks at various data science and machine le
 ...
 
 
-### KDD conference invited talk
+### Bonus: KDD conference invited talk
 
 ...
 
