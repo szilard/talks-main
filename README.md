@@ -1,6 +1,6 @@
 ## Most recent/important talks given at conferences/meetups
 
-In the last 5 years I gave about 50 talks at various data science and machine learning conferences and meetups. Some of these talks have been video recorded and are publicly available online. Many of them have been on the same topic, but with content gradually changing by new/updated results from my ongoing research (so older talks have been supersed by newer ones). This repo aims to always point to the lastest recorded talk in each of the most important topics. 
+In the last 5 years I gave about 50 talks at various data science and machine learning conferences and meetups. Some of these talks have been video recorded and are publicly available online. Many of them have been on the same topic, but with content gradually changing by new/updated results from my ongoing findings (so older talks have been superseded by newer ones). This repo aims to always point to the lastest recorded talk in each of the most important topics. 
 
 
 ### Gradient Boosting Machines (GBM/GBDT) / Machine learning benchmarks
