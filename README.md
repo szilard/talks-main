@@ -13,7 +13,7 @@ In the last 5 years I gave about 50 talks at various data science and machine le
 Best practices for using machine learning in businesses have been discused in my keynote to the Budapest BI & Analytics Forum conference in Nov 2018. That talk has not been recorded, but I gave a "replay" of it in the Use cases seminar for the MS in Business Analytics at CEU (University) in May 2019, 
 [video here](https://www.youtube.com/watch?v=HSr1CpZdOXU&t=36m58s).
 
-In addition, I walked through the whole ML workflow in a talk at the LA Data Science/Machine Learning meetup in May 2017, 
+In addition, I walked through the whole workflow for developing machine learning models and deplying them in production in a talk at the LA Data Science/Machine Learning meetup in May 2017, 
 [video here](https://www.youtube.com/watch?v=2BTl2maXvFk&t=17m15s).
 
 
