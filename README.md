@@ -7,6 +7,7 @@ In the last 5 years I gave about 50 talks at various data science and machine le
 
 With all the hype about deep learning and “AI”, it is not well publicized that in prediction tasks with structured/tabular data (as in most business applications) gradient boosting machines (GBM) usually achieve better accuracy than neural networks. In this talk at the LA West R Meetup I reviewed some of the main GBM implementations such as xgboost, h2o, lightgbm, catboost, Spark MLlib and I discussed their main features and characteristics (such as training speed, memory footprint, scalability to multiple CPU cores and in a distributed setting, prediction speed etc), 
 [video here](https://www.youtube.com/watch?v=HMpI4-LB7UA#t=4m5s).
+Previous versions of this talk on GBMs have been given at several conferences and meetups (2018-2019), and the talk is also based on some other previous talks about benchmarking open source machine learning libraries in general but still with focus on random forests and GBMs (2015-2017, including keynote at R Finance conference in Chicago, May 2017).
 
 
 ### Machine learning in production / in business applications / best practices
