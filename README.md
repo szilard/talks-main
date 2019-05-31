@@ -1,6 +1,6 @@
-## Most recent/important talks given at conferences/meetups
+## Most recent/important talks I gave at conferences/meetups
 
-In the last 5 years I gave about 50 talks at various data science and machine learning conferences and meetups. Some of these talks have been video recorded and are publicly available online. Many of them have been on the same topic, but with content gradually updated with results from new findings (so older talks have been superseded by newer ones). This repo aims to keep a pointer to the most up-to-date recorded talk in each of the most important topics. 
+In the last 5 years I gave about 50 talks at various data science and machine learning conferences and meetups. Some of these talks have been video recorded and are publicly available online. Many of them have been on the same topic, but with content gradually updated with results from new findings (so older talks have been superseded by newer ones). This repo aims to keep a pointer to the most up-to-date recorded talk in each of the main topics. 
 
 
 ### Gradient Boosting Machines (GBM/GBDT) / Machine learning benchmarks
@@ -25,7 +25,7 @@ The 2 tools most widely used for data science in the last few years are R and Py
 
 ### Size of datasets for analytics
 
-In the last decade we have seen a huge amount of hype around "big data" and distributed systems supposedly able to cope with it (Hadoop, Spark). In a talk at useR! conference at Stanford University (June 2016) I talked about the size of datasets typically used for analytics and the low-productivity of using "big data" tools, [video here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Size-of-Datasets-for-Analytics-and-Implications-for-R). 
+In the last decade we have seen a huge amount of hype around "big data" and distributed systems supposedly able to cope with such data (Hadoop, Spark). At useR! conference at Stanford University (June 2016) I talked about the size of datasets typically used for analytics and the low-productivity of using "big data" tools, [video here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Size-of-Datasets-for-Analytics-and-Implications-for-R). 
 
 
 ### Machine learning with H2O
@@ -41,7 +41,7 @@ In this talk in the "From the atoms to the stars" (Atomcsill) series at Eotvos U
 
 ### Bonus: KDD conference invited talk
 
-Probably my most prestigious conference invitation so far, I included my KDD 2017 (Halifax, Canada, Aug 2017) talk here. It was a mix of the topics discussed in previous talks with the theme of "Machine Learning: Quo Vadis", 
+Probably my most prestigious conference invitation so far, I included my KDD 2017 (Halifax, Canada, Aug 2017) talk here. It was a mix of the topics discussed in previous talks with the theme of what's the current state of ML in practice and where are we headed ("Machine Learning Software in Practice: Quo Vadis"), 
 [video here](https://www.youtube.com/watch?v=8wyOwUNw7D8).
 
 
