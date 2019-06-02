@@ -38,7 +38,7 @@ If you deploy machine learning in production (especially real-time scoring), H2O
 
 ### Physicists in data science / Intro to data science / Career tips
 
-In this talk in the "From the atoms to the stars" (Atomcsill) series at Eotvos University (where I obtained my PhD), I introduced college aspiring high school students to data science and I gave them some career advice. The talk was in Hungarian, [video here](https://www.youtube.com/watch?v=-GU9YzNuOaY).
+In this talk in the "From the atoms to the stars" (Atomcsill) series at Eotvos University (where I obtained my PhD long time ago), I introduced college aspiring high school students to data science and I gave them some career advice. The talk was in Hungarian, [video here](https://www.youtube.com/watch?v=-GU9YzNuOaY).
 
 
 ### Bonus: KDD conference invited talk
