@@ -45,7 +45,7 @@ In this talk in the "From the atoms to the stars" (Atomcsill) series at Eotvos U
 
 ### Bonus: KDD conference invited talk
 
-Probably my most prestigious conference invitation so far, I included my KDD 2017 (Halifax, Canada, Aug 2017) talk here. It was a mix of the topics discussed in previous talks with the theme of what's the current state of ML in practice and where are we headed ("Machine Learning Software in Practice: Quo Vadis"), 
+This is probably my most prestigious conference invitation so far, therefore I included my KDD 2017 (Halifax, Canada, Aug 2017) talk here. It was a mix of the topics discussed in previous talks with the theme of what's the current state of ML in practice and where are we headed ("Machine Learning Software in Practice: Quo Vadis"), 
 [video here](https://www.youtube.com/watch?v=8wyOwUNw7D8).
 
 
