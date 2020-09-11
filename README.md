@@ -15,8 +15,9 @@ Previous versions of this talk have been given at several conferences and meetup
 
 Best practices for using machine learning in businesses have been discused in my keynote to the Budapest BI & Analytics Forum conference in Nov 2018. That talk has not been recorded, but I gave a "replay" of it in the Use cases seminar for the MS in Business Analytics at CEU (University) in May 2019, 
 [video here](https://www.youtube.com/watch?v=HSr1CpZdOXU&t=36m58s). (I also gave a slightly updated version of this
-talk at the Los Angeles Data Science meetup in August 2019, but unfortunately that has not been recorded.)
-
+talk at the Los Angeles Data Science meetup in August 2019, but unfortunately that has not been recorded.) **Update:** I gave a further updated version of this talk as the inaugural talk of the Albuquerque Machine Learning Meetup in August 2020 (Online due to COVID), 
+[video here](https://www.youtube.com/watch?v=-HCu0lPjcMA).
+ 
 In addition, I walked through the whole workflow for developing machine learning models and deploying them in production in a talk at the Los Angeles Data Science/Machine Learning meetup in May 2017, 
 [video here](https://www.youtube.com/watch?v=2BTl2maXvFk&t=17m15s).
 
