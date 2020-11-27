@@ -10,7 +10,11 @@ With all the hype about deep learning and “AI”, it is not well publicized th
 Essentially the same talk has been delivered 2 weeks later at the Berlin Buzzwords conference, where it has got a more pro recording, [video here](https://www.youtube.com/watch?v=qjuizRba3ZQ&list=PLq-odUc2x7i9-bGb8F8ytYBfCAzcmpaUe&index=31).
 Previous versions of this talk have been given at several conferences and meetups (2018-2019, for example PAW, Crunch, Dataworks Summit etc), but the talk is also based on some other previous talks about benchmarking open source machine learning libraries in general (2015-2017, including my keynote at R Finance conference in Chicago, May 2017, but also talks at H2O World, PAW, EARL, Domino Data Science Popup, useR! etc).
 
-As a spinoff of the above, I created a separate GBM introductory talk in which I show how easy it is to get started with GBMs with demo code both in R and Python. I gave this talk 2 times already (last time at the LA Data Science Meetup in February 2020), but it has not been recorded yet. 
+As a spinoff of the above, I created a separate GBM introductory talk in which I show how easy it is to get started with GBMs with demo code both in R and Python. I gave this talk 2 times already (last time at the LA Data Science Meetup in February 2020), but it has not been recorded yet. **Update:**
+I gave the same talk at the Datacon LA conference in October 2020 (online), [video here](https://www.youtube.com/watch?v=aokFLnxLQvY).
+
+Another spinoff but in the other direction, I made a separate more advanced talk that goes more in-depth in performance topics and I gave that
+talk at the LA Data Science meetup in November 2020 (online), [video here](https://www.youtube.com/watch?v=ecUUUdisKAc).
 
 
 ### Machine learning in production / in business applications / best practices
